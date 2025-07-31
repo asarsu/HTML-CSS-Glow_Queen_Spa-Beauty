@@ -1,5 +1,7 @@
-ConquerBlocks/modulo CSS/ proyecto entregable 1-5
-Spa & Beauty
+## ConquerBlocks/modulo CSS/Proyecto_Entregable_1-5
 
-Proyecto creado con vite y sass
-Tamaño 1920px
+### Glow Queen Spa & Beauty
+
+Proyecto creado en **HTML/CSS** usando **vite y sass**
+
+**Tamaño:** 1920px
